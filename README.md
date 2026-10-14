@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems?style=flat-square&logo=github&color=blue" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems?style=flat-square&logo=github&color=blue" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -79,11 +79,11 @@ The table below lists the category-defining SaaS and hosted platforms for intent
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for building custom, vendor-independent, self-hosted intent-driven outbound engines. **Sorted in descending order by GitHub Stars.**
+Curated open-source projects for building custom, vendor-independent, self-hosted intent-driven outbound engines. **Sorted in descending order by GitHub_Stars.**
 
-| 💻 Project & Repository | ⭐ Stars | 📜 License | 🛠️ Architecture Category | 💡 Intent & Outbound Capabilities |
+| 💻 Project & Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Architecture Category | 💡 Intent & Outbound Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
-| **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code (Sustainable Use) | Workflow & Intent Orchestration | Fair-code workflow automation with 400+ nodes. The defacto engine for wiring webhook-based intent triggers (funding, hiring, RSS, GitHub stars) into automated multi-step outreach pipelines. |
+| **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code (Sustainable Use) | Workflow & Intent Orchestration | Fair-code workflow automation with 400+ nodes. The defacto engine for wiring webhook-based intent triggers (funding, hiring, RSS, GitHub_Stars) into automated multi-step outreach pipelines. |
 | **[Firecrawl](https://github.com/mendableai/firecrawl)** | [![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers) | AGPL-3.0 | Web Scraping & AI Extraction | Crawls entire websites and converts them into LLM-ready markdown or clean structured schemas. Essential for extracting public company intelligence, leadership changes, product updates, and pricing changes. |
 | **[Browser Use](https://github.com/browser-use/browser-use)** | [![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers) | MIT | AI Agent Browser Automation | Enables autonomous AI agents to interact with web browsers to research companies, scrape dynamic prospect portals, verify contacts, and conduct multi-step deep research across gated websites. |
 | **[Crawl4AI](https://github.com/unclecode/crawl4ai)** | [![Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers) | Apache-2.0 | High-Speed LLM Crawler | Lightweight, open-source asynchronous web crawler engineered specifically for LLMs. Perfect for high-speed batch enrichment of corporate domains, tech-stack fingerprinting, and signal gathering. |
@@ -138,7 +138,7 @@ We welcome additions, corrections, and updates from the community!
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
 3. 📝 **Add or edit entries in `README.md`**:
    - For **SaaS tools**, ensure you provide exact starting tier pricing, specific free tier/trial limits, and company scale metrics.
-   - For **Open-Source projects**, include GitHub star badges linking to the repository's stargazers page and ensure entries remain sorted by star count.
+   - For **Open-Source projects**, include GitHub Stars_Badges linking to the repository's stargazers page and ensure entries remain sorted by Stars_Count.
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add tool X with pricing & intent capabilities'`).
 5. 📤 **Push to your branch** (`git push origin feature/add-new-tool`).
 6. 🎯 **Open a Pull Request** with a concise description of the tool's relevance to intent-driven sales.
