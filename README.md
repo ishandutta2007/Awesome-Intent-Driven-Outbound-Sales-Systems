@@ -15,6 +15,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems/commits/main"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square" alt="Maintained" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 *Curated for GTM Engineers, RevOps Leads, Growth Hackers, and AI SDR Architects.*
@@ -51,6 +52,8 @@ This repository tracks the leading **commercial SaaS solutions** and **open-sour
   - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
   - [🏗️ Recommended Architecture: Self-Hosted Composable Stack](#️-recommended-architecture-self-hosted-composable-stack)
   - [🤝 How to Contribute](#-how-to-contribute)
+  - [💖 Support & Sponsoring](#-support--sponsoring)
+  - [⭐ Star History](#-star-history)
   - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -139,6 +142,23 @@ We welcome additions, corrections, and updates from the community!
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add tool X with pricing & intent capabilities'`).
 5. 📤 **Push to your branch** (`git push origin feature/add-new-tool`).
 6. 🎯 **Open a Pull Request** with a concise description of the tool's relevance to intent-driven sales.
+
+---
+
+## 💖 Support & Sponsoring
+
+Thank you for visiting and using this ecosystem guide! If you find this repository valuable for your outbound architecture, research, or GTM workflows:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new intent signals, tools, or open-source projects.
+- 📢 **Share it** with your RevOps, GTM engineering, or sales colleagues on Twitter/X and LinkedIn.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and research via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Intent-Driven-Outbound-Sales-Systems&type=date&legend=top-left)
 
 ---
 
